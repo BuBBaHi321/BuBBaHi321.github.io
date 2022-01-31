@@ -1,6 +1,6 @@
 {
   "name": "react test1",
-  "homepage": "https://BuBBaHi321.github.io/my-app",
+  "homepage": "https://BuBBaHi321.github.io/my-app/",
   "dependencies": {
     "-": "^0.0.1",
     "save-dev": "^0.0.1-security"
